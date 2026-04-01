@@ -1,0 +1,7 @@
+.tile-name{
+    color: aqua;
+    background: pink;
+    padding-left:5rem;
+    display:flex;
+    align-items: center;
+}
